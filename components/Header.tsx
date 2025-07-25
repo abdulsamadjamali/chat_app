@@ -6,7 +6,7 @@ const Header: React.FC = () => {
       <div className="flex items-center space-x-3">
         <div className="p-2 bg-gradient-to-tr from-blue-500 to-teal-400 rounded-full">
           <img
-            src="image/abdul samad.jpg"
+            src="dist/assets/image/abdul samad.jpg"
             alt="Profile"
             className="w-14 h-14 rounded-full object-cover"
           />
